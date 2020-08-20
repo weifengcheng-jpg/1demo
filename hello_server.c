@@ -65,3 +65,5 @@ void error_handling(char *message)
     fputc('\n', stderr);
     exit(-1);
 }
+
+//这是一个test用来测试git的工作是否正常
